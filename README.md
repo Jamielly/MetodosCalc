@@ -1,2 +1,3 @@
 # MetodosCalc
-Alguns exercícios que realizei recentemente com a finalidade de concluir um Bootcamp e reprisar o conteúdo
+Alguns exercícios para concluir um Bootcamp e reprisar o conteúdo
+Métodos, Classes e Parâmetros
